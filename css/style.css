@@ -1,0 +1,39 @@
+.nav-link {
+  border-top: 7px;
+  border: green;
+} 
+
+#manu-item {
+  background-color: #a7aba9;
+  padding: 15px;
+  margin: 20px;
+} 
+
+h1 {
+	margin: 25px;
+}
+.navbar-collapse {
+	background-color: #a3e3d9;
+	margin-top: 10px;
+	margin-right: 0;
+}
+
+.navbar {
+	padding: 0;
+}
+.container-fluid {
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.navbar-brand {
+	padding-left: 20px;
+}
+.navbar-toggler {
+	padding-right: 20px;
+	border: none;
+}
+.navbar-toggler .active {
+	border:;
+}
